@@ -16,13 +16,12 @@
   
 </p>
 <br>
-<br>
+
 * Formado Sistemas de Informação em Estacio de Sá 
 <br>
 * Procurando sempre ser autoditada
 <br>
 * Em busca de novos conhecimentos.
-
 
 <p> 
 <br>
