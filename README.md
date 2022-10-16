@@ -18,9 +18,11 @@
 <br>
 <br>
 * Formado Sistemas de Informação em Estacio de Sá 
-* Procurando sempre ser autoditada
-* Em busca de novos conhecimentos.
 <br>
+* Procurando sempre ser autoditada
+<br>
+* Em busca de novos conhecimentos.
+
 
 <p> 
 <br>
