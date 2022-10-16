@@ -15,7 +15,8 @@
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
   
 </p>
-
+<br>
+<br>
 * Formado Sistemas de Informação em Estacio de Sá 
 * Procurando sempre ser autoditada
 * Em busca de novos conhecimentos
