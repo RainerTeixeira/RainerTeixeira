@@ -21,7 +21,9 @@
 * Procurando sempre ser autoditada
 * Em busca de novos conhecimentos.
 <br>
+
 <p> 
+<br>
   <a href="mailto:raineroliveira94@hotmail.com" alt="Hotmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
