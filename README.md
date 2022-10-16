@@ -15,13 +15,13 @@
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
   
 </p>
+
 <br>
 
 * Formado Sistemas de Informação em Estacio de Sá 
-<br>
 * Procurando sempre ser autoditada
-<br>
-* Em busca de novos conhecimentos.
+* Em busca de novos conhecimentos
+
 
 <p> 
 <br>
