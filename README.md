@@ -12,21 +12,18 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> 
 </p>
 
 <br>
-
 * Formado Sistemas de Informação em Estacio de Sá 
 * Procurando sempre ser autoditada
 * Em busca de novos conhecimentos
 
-
 <p> 
 <br>
   <a href="mailto:raineroliveira94@hotmail.com" alt="Hotmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/hotmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
   <a href="https://linkedin.com/in/rainerteixeira" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
