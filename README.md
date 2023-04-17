@@ -1,4 +1,4 @@
-Rainer Teixeira: Desenvolvedor full stack
+Rainer Teixeira: Desenvolvedor Front-end Web
 Olá! Sou Rainer Teixeira, especialista em desenvolvimento front-end web com foco em criar experiências excepcionais e interativas para os usuários.
 
 💼 Experiência Profissional
