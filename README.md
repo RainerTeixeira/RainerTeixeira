@@ -98,7 +98,7 @@ Minha abordagem centrada no cliente, combinada com expertise técnica, contribui
 
 ## 📈 Projetos em Destaque
 
-### **Casa do Saber**  
+### **Rainer Academy**  
 Uma plataforma educacional colaborativa para aprendizado prático em TI, conectando usuários por meio de microcursos e soluções modernas.  
 
 **Tecnologias Utilizadas**:  
