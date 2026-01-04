@@ -781,12 +781,6 @@ npm install @rainer/design-tokens
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RainerTeixeira&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RainerTeixeira&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=RainerTeixeira&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9)
-
 ![Trophy](https://github-profile-trophy.vercel.app/?username=RainerTeixeira&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10)
 
 ### 📈 Atividade Recente
